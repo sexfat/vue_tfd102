@@ -2,7 +2,7 @@
   "name": "tfd102",
   "version": "1.0.0",
   "description": "A Vue.js projects",
-  "author": "sexfat <bryant6831@gmail.com>",
+  "author": "sexfat <huhantin@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
